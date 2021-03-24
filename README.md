@@ -326,4 +326,4 @@ $ cd /data/wwwroot/freenom/ && php run
 ### 🥝  开源协议
 [MIT](https://opensource.org/licenses/mit-license.php)
  
- 测试Tg Bot中
+ 测试Tg Bot中(NOTICE_FREQ=0)
